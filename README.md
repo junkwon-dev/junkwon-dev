@@ -10,7 +10,6 @@
 - AI
 - Database
 - Message Queue
-- 
 ### 📞 How to reach me: 
 - Email : dydqja1013@naver.com
 
