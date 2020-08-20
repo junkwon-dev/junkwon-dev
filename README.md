@@ -1,4 +1,4 @@
-### 안녕하세요! Hi!
+### 안녕하세요!
 
 ### 🤩 I’m currently working on 
 - Software Maestro 11th
