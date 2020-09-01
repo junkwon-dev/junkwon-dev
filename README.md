@@ -5,7 +5,7 @@
 - Myongji University Information Communication Tech
 
 ### 🌱 I’m currently learning ...
-- Backend
+- Backend(Django)
 - AI
 - Database
 - Message Queue
